@@ -1,4 +1,4 @@
-{
+[
     {
         "id": "",
         "location": "",
@@ -7,4 +7,4 @@
         "rssi": 0,
         "emergency": false
     }
-}
+]
