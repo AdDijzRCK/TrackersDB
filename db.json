@@ -1,10 +1,20 @@
-[
-    {
-        "id": "",
-        "location": "",
-        "time": 0,
-        "battery": 0,
-        "rssi": 0,
-        "emergency": false
-    }
-]
+{
+    "devices":    [
+        {
+            "id": "01",
+            "location": "",
+            "time": 0,
+            "battery": 0,
+            "rssi": 0,
+            "emergency": false
+        },
+        {
+            "id": "02",
+            "location": "",
+            "time": 0,
+            "battery": 0,
+            "rssi": 0,
+            "emergency": false
+        }
+    ]
+}
