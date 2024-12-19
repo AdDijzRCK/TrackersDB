@@ -23,6 +23,14 @@
             "battery": 0,
             "rssi": 0,
             "emergency": false
+        },
+        {
+            "id": "04",
+            "location": "",
+            "time": 0,
+            "battery": 0,
+            "rssi": 0,
+            "emergency": false
         }
     ]
 }
